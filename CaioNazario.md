@@ -5,7 +5,7 @@ desenvolvimento web.
 
 
 
-## Atividades Gerais
+## Minha atividade
 
 <div align="LEFT">
   <img src="https://github-readme-stats.vercel.app/api?username=CaioNazario&show_icons=true&theme=react&hide_border=true" alt="Estatísticas do GitHub" style="border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.07);" />
