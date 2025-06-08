@@ -1,6 +1,5 @@
 ## Caio Nazário👋
 
-Sobre mim:
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em backend Java e
 desenvolvimento web.
 
