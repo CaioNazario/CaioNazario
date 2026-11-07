@@ -2,15 +2,6 @@
 
 Backend engineer Recife, Brazil Based. I work with Java on the backend, and in my own time I build tools for the Omarchy Linux desktop: bar plugins, shell widgets and the small things that make my setup feels good.
 
-## What I'm building
-
-### [Island](https://github.com/CaioNazario/island-omarchy)
-
-A bar plugin for [Omarchy](https://omarchy.org) with a Dynamic Island for the desktop. The middle pill grows and shrinks with the context and brings together notifications, music, volume, brightness, calendar, quick controls, AI usage and a Pomodoro timer. The side pills hold widgets grouped into environments you switch with a swipe.
-
-[![The Island bar with the music and calendar card open](https://raw.githubusercontent.com/CaioNazario/island-omarchy/dev/docs/screenshots/hero.png)](https://github.com/CaioNazario/island-omarchy)
-
-[Source](https://github.com/CaioNazario/island-omarchy) · [Omarchy plugin marketplace](https://plugins.omarchy.org/plugin.html?id=caionazario.island)
 
 ## Stack
 
