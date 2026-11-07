@@ -1,6 +1,6 @@
 ## Hi, I'm Caio Nazário 👋
 
-Backend engineer Recife, Brazil Based. I work with Java on the backend, and in my own time I build tools for the Omarchy Linux desktop: bar plugins, shell widgets and the small things that make my setup feels good.
+Backend engineer based in Recife, Brazil. I work with Java on the backend, and in my own time I build tools for the Omarchy Linux desktop: bar plugins, shell widgets and the small things that make my setup feel good.
 
 
 ## Stack
